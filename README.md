@@ -2,7 +2,7 @@
 
 ## Overview
 
-**MyProject** is a part of a wider research initiative concerning the enforcement of CCPA and GDPR regulations, which was conducted as part of my master's thesis at Maastricht University in 2021. The aim of this project is to provide a comprehensive analysis of GDPR enforcement practices within the EU and to evaluate the implications of these practices on personal data protection.
+**GDPR-enforcement** is a part of a wider research initiative concerning the enforcement of CCPA and GDPR regulations, which was conducted as part of my master's thesis at Maastricht University in 2021. The aim of this project is to provide a comprehensive analysis of GDPR enforcement practices within the EU and to evaluate the implications of these practices on personal data protection.
 
 This repository contains two key Jupyter Notebook files, `GDPR_1.ipynb` and `GDPR_2.ipynb`, which utilize datasets collected and structured for this research. Below is a detailed explanation of the files and the technical requirements necessary to run this project.
 
